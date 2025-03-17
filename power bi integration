@@ -1,0 +1,11 @@
+import requests
+
+power_bi_url = "https://api.powerbi.com/v1.0/myorg/reports"
+headers = {"Authorization": "Bearer YOUR_ACCESS_TOKEN"}
+
+response = requests.get(power_bi_url, headers=headers)
+if response.status_code == 200:
+    report_data = response.json()
+    print(report_data)
+else:
+    print("Error fetching Power BI report")
