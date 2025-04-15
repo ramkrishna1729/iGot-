@@ -1,6 +1,6 @@
 # iGot-
 Mission Karmayogi at Think Through Consultancy (TTC)
-During my 4-month onsite internship as a Full Stack Developer at Think Through Consultancy (TTC), I worked on Mission Karmayogi, a platform designed to enhance the learning and competency assessment of civil service officials. My role focused on UI/UX design, dashboard development, and Power BI-based data visualization, ensuring an intuitive and data-driven experience for users.
+During my 4-month onsite internship as a Front End Developer at Think Through Consultancy (TTC), I worked on Mission Karmayogi, a platform designed to enhance the learning and competency assessment of civil service officials. My role focused on UI/UX design, dashboard development, and Power BI-based data visualization, ensuring an intuitive and data-driven experience for users.
 
 Key Contributions:
 ✅ Dashboard Development: Designed and developed interactive dashboards for Mission Karmayogi to provide real-time insights, track user engagement, and enhance decision-making.
